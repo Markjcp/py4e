@@ -1,0 +1,333 @@
+1
+00:00:01,263 --> 00:00:08,517
+(música suave de piano)
+
+2
+00:00:08,517 --> 00:00:09,677
+- [Instructor] En este video,
+
+3
+00:00:09,677 --> 00:00:11,549
+vamos a descargar
+e instalar
+
+4
+00:00:11,549 --> 00:00:15,120
+Python 3 desde Python.org en una Macintosh.
+
+5
+00:00:15,120 --> 00:00:17,314
+Las Macintosh, desde hace años,
+
+6
+00:00:17,314 --> 00:00:19,973
+vienen con Python 2 ya instalado.
+
+7
+00:00:19,973 --> 00:00:23,557
+Entonces, si tipeamos python menos menos versión.
+
+8
+00:00:23,557 --> 00:00:28,371
+Entonces, tipeo eso, y veo
+que tengo Python 2.0.
+
+9
+00:00:28,371 --> 00:00:31,856
+Lo que queremos hacer, además,
+es instalar Python 3.
+
+10
+00:00:31,856 --> 00:00:35,739
+En algún momento, Macintosh deben actualizar
+
+11
+00:00:35,739 --> 00:00:38,886
+su versión distribuida a Python 3,
+
+12
+00:00:38,886 --> 00:00:40,629
+pero hay tantas cosas dentro de una Mac
+
+13
+00:00:40,629 --> 00:00:42,187
+que dependen de Python 2.
+
+14
+00:00:42,187 --> 00:00:45,208
+Esperaría que siempre se llame Python 3,
+
+15
+00:00:45,208 --> 00:00:48,275
+que es como lo llamaremos.
+
+16
+00:00:48,275 --> 00:00:49,316
+En un segundo.
+
+17
+00:00:49,316 --> 00:00:52,680
+Entonces, estoy aquí en la sección de
+descargas de Python.org
+
+18
+00:00:52,680 --> 00:00:55,405
+y voy a descargar Python 3.
+
+19
+00:00:55,405 --> 00:00:58,203
+Haciendo click aquí, yo ya
+lo tengo aquí
+
+20
+00:00:58,203 --> 00:01:01,502
+en descargas
+porque siempre suelo hacer esto.
+
+21
+00:01:01,502 --> 00:01:06,255
+Y entonces, lo voy a instalar.
+
+22
+00:01:06,255 --> 00:01:08,208
+Ahí está el instalador.
+
+23
+00:01:08,208 --> 00:01:10,328
+Y dice continuar, continuar, continuar,
+
+24
+00:01:10,328 --> 00:01:13,038
+por supuesto acepto y leo
+todo muy rápido.
+
+25
+00:01:13,038 --> 00:01:15,940
+Y ahora voy a instalarlo.
+
+26
+00:01:15,940 --> 00:01:22,919
+(música suave de piano)
+
+27
+00:01:22,919 --> 00:01:29,184
+Ok, eso quiere decir
+que si abro una terminal,
+
+28
+00:01:29,184 --> 00:01:31,760
+esto es por supuesto
+iniciar una terminal.
+
+29
+00:01:31,760 --> 00:01:38,176
+Entonces Python 2 aún sigue ahí.
+Pero Python 3 también está ahí ahora.
+
+30
+00:01:38,176 --> 00:01:40,395
+Entonces deberíamos tener
+Python 3 instalado,
+
+31
+00:01:40,395 --> 00:01:42,494
+entonces instalamos Python 3.6.
+
+32
+00:01:42,494 --> 00:01:44,386
+Y ahí está,
+eso es todo lo que lleva
+
+33
+00:01:44,386 --> 00:01:47,905
+instalar Python 3 en una Macintosh.
+
+34
+00:01:47,905 --> 00:01:52,159
+Entonces, vamos a escribir nuestro
+primer programa en Python.
+
+35
+00:01:52,159 --> 00:01:57,731
+Yo voy a...a mí me gusta Atom.
+
+36
+00:01:57,731 --> 00:02:01,963
+Entonces tengo este editor
+Atom, es Atom.io.
+
+37
+00:02:01,963 --> 00:02:05,411
+Justo aquí, Atom.io, descargar
+e instalar el editor Atom.
+
+38
+00:02:05,411 --> 00:02:08,964
+Me gusta porque Atom trabaja igual
+
+39
+00:02:08,964 --> 00:02:12,011
+en todos, Windows, Mac y Linux.
+
+40
+00:02:12,011 --> 00:02:13,799
+Y tiene resaltador de sintaxis.
+
+41
+00:02:13,799 --> 00:02:15,479
+Realmente me gustan esas cosas.
+
+42
+00:02:15,479 --> 00:02:21,789
+Entonces voy a hacer
+un simple programa en Python.
+
+43
+00:02:21,789 --> 00:02:23,876
+"Hola mundo", como hago siempre.
+
+44
+00:02:23,876 --> 00:02:26,257
+Verán que no está resaltando
+la sintaxis aún.
+
+45
+00:02:26,257 --> 00:02:28,676
+Voy a guardar el archivo.
+
+46
+00:02:28,676 --> 00:02:33,544
+Oops. "File" > "Save as".
+
+47
+00:02:33,544 --> 00:02:35,471
+Voy a ir a mi escritorio,
+
+48
+00:02:35,471 --> 00:02:40,604
+y crear una carpeta llamada py4e.
+
+49
+00:02:40,604 --> 00:02:46,820
+A esto lo llamaré hello.py.
+
+50
+00:02:46,820 --> 00:02:51,121
+Oh, tengo que renombrarlo.
+
+51
+00:02:51,121 --> 00:02:53,327
+Lo renombro.
+
+52
+00:02:53,327 --> 00:02:56,532
+Y termino con dos puntos
+hello.py ahí está.
+
+53
+00:02:56,532 --> 00:02:59,544
+Entonces aquí estoy,
+en mi carpeta "home".
+
+54
+00:02:59,544 --> 00:03:00,909
+Puedo ir a mi escritorio,
+
+55
+00:03:00,909 --> 00:03:03,214
+y entrar a la nueva carpeta que creé,
+
+56
+00:03:03,214 --> 00:03:06,320
+Python para todos,
+y puedo ver los archivos.
+
+57
+00:03:06,320 --> 00:03:08,510
+Ahora, hay dos maneras de ejecutar esto,
+
+58
+00:03:08,510 --> 00:03:12,827
+pero quiero
+que aprendan a usar la terminal.
+
+59
+00:03:12,827 --> 00:03:14,762
+Así pueden saber lo que están haciendo.
+
+60
+00:03:14,762 --> 00:03:17,595
+Entonces, aquí estamos
+en la carpeta que contiene Python
+
+61
+00:03:17,595 --> 00:03:23,958
+y lo que hacemos para ejecutarlo
+es correr 'python3 hello.py'
+
+62
+00:03:23,958 --> 00:03:26,155
+Y ahí vamos,
+por supuesto esto es Python 3
+
+63
+00:03:26,155 --> 00:03:28,215
+porque estoy usando paréntesis ahí.
+
+64
+00:03:28,215 --> 00:03:30,771
+Entonces, en lugar de comillas dobles.
+
+65
+00:03:30,771 --> 00:03:32,405
+Pero Python 2 aún está ahí
+
+66
+00:03:32,405 --> 00:03:35,234
+y por supuesto que si corren
+'python hello.py'
+
+67
+00:03:35,234 --> 00:03:38,859
+va a haber un error de sintaxis, o no.
+
+68
+00:03:38,859 --> 00:03:40,747
+Debe ser que agregaron algo.
+
+69
+00:03:40,747 --> 00:03:43,075
+(risas)
+
+70
+00:03:43,075 --> 00:03:47,149
+Si, porque Python aún es versión 2,
+
+71
+00:03:47,149 --> 00:03:49,239
+pero aparentemente está permitido imprimir
+
+72
+00:03:49,239 --> 00:03:51,536
+con la última versión de Python 2.
+
+73
+00:03:51,536 --> 00:03:55,186
+Entonces, ahí vamos, okay.
+
+74
+00:03:55,186 --> 00:03:57,369
+Entonces, nuevamente gracias por mirar.
+
+75
+00:03:57,369 --> 00:03:59,740
+Espero que este video les haya servido
+
+76
+00:03:59,740 --> 00:04:03,663
+para tener Python 3 instalado
+en su Macintosh.
+
+77
+00:04:03,663 --> 00:04:06,580
+(música jazz suave)
